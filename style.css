@@ -1,0 +1,14 @@
+body{
+    background-image: url("background.jpg");
+    color: white;
+}
+
+#speed{
+    float: left;
+}
+#volume{
+    float: right;
+}
+button{
+    float: none;
+}
